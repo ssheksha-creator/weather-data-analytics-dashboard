@@ -56,7 +56,7 @@ weather-data-analytics-dashboard/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/weather-data-analytics-dashboard.git
+git clone https://github.com/ssheksha-creator/weather-data-analytics-dashboard
 ```
 
 ### Navigate to the project
