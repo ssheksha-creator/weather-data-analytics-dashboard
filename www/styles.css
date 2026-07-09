@@ -1,0 +1,43 @@
+/* GLOBAL */
+.content-wrapper {
+    background-color: #f4f6f9;
+}
+
+/* NAVBAR CENTER */
+.main-header .navbar {
+    display: flex !important;
+    justify-content: center !important;
+}
+
+/* SIDEBAR LIGHT */
+.main-sidebar {
+    background-color: #ffffff;
+}
+
+.main-sidebar .nav-link {
+    color: #2c3e50 !important;
+}
+
+/* SIDEBAR DARK */
+body.dark-mode .main-sidebar {
+    background: linear-gradient(180deg, #1a252f, #0f1720);
+}
+
+body.dark-mode .nav-link {
+    color: #e0e6ed !important;
+}
+
+/* CARDS */
+.card {
+    border-radius: 12px;
+    box-shadow: 0px 2px 8px rgba(0,0,0,0.1);
+}
+
+/* DATATABLE DARK MODE */
+body.dark-mode table.dataTable {
+    color: white !important;
+}
+
+body.dark-mode table.dataTable tbody tr {
+    background-color: #34495e !important;
+}
